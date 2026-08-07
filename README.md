@@ -1,4 +1,4 @@
-<h1 align="center">📦 this-xys/WaSocket</h1>
+<h1 align="center">📦 dvwilker/DvwilkerBail</h1>
 
 <div align="center">
 
@@ -72,7 +72,7 @@ Este README está enfocado principalmente en explicar **cómo enviar cada tipo d
 Instalación directa desde GitHub:
 
 ```bash
-npm install github:this-xys/WaSocket
+npm install github:dvwilker/DvwilkerBail
 ```
 
 > **Requisito:** Node.js **20** o superior.
